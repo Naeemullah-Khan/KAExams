@@ -1,2 +1,2 @@
-# LMHSummerSchool2021
-Project for LMH summer school 2021
+# KAUST Academy Exams Website
+KAUST Academy Exams will be hosted here
